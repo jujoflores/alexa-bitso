@@ -1,0 +1,7 @@
+{
+  "require": {
+    "awsmug/alexa-php-sdk": "dev-master",
+    "vlucas/phpdotenv": "^2.4",
+    "guzzlehttp/guzzle": "~6.0"
+  }
+}
